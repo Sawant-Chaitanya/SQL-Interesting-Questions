@@ -31,7 +31,7 @@ The output should be:
 | customer_id | customer_name | avg_billing_amount |
 |-------------|---------------|--------------------|
 | 1           | A             | $87.50             |
-| 2           | B             | $150.00            |
+| 2           | B             | $200.00            |
 | 3           | C             | $183.33            |
 
 Explanation:
