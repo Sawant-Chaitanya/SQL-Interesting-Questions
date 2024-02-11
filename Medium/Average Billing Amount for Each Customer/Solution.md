@@ -1,3 +1,5 @@
+## Detailed explanation for solution for the query provided below [techTFQ](https://youtu.be/jS5_hjFgfzA?si=UI8hwMlcBwr5h3QG)
+
 ```SQL
 -- Common Table Expression (CTE) to calculate billing sums and counts for each customer between 2019 to 2021
 WITH cte AS (
@@ -28,3 +30,5 @@ FROM
 ORDER BY 
     customer_id;
 ```
+
+
